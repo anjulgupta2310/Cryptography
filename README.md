@@ -1,4 +1,4 @@
-# Cryptography
+# AES Algorithm
 
 AES encryption is commonly used in a lot of ways, including wireless security, processor security, file encryption, and SSL/TLS.
 In fact, your web browser probably used AES to encrypt your connection with this website(Github).
