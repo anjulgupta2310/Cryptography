@@ -7,8 +7,11 @@ In this Algorithm,I am using the C language.
 
 Basically this algorithm breaks into four part
 1)SubByte
+
 2)ShiftRows
+
 3)MixColumn
+
 4)Key formation and expansion
 
 If you want to read the AES Algorithm then you may read from this link:- https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197.pdf
